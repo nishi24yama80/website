@@ -23,7 +23,7 @@ repository               : "nishi24yama80/website"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Tomoki Nishiyama"
   pronouns         : # example: "she/her"  
   bio              : "Predoctoral Research Professional, Energy Policy Institute at the University of Chicago"
