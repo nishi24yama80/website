@@ -20,6 +20,6 @@ I plan to start a PhD in economics in summer 2027.
 Research interests
 ------
 * Environmental and energy economics
+* Development economics
 * Industrial organization
 * Market and mechanism design
-* Econometrics
