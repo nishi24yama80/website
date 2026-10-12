@@ -23,8 +23,8 @@ This paper extends the gross output production function estimator of [Trunschke 
 Work in progress
 ======
 
-**Staying for Opportunity: Evidence from an In-Situ Housing Lottery in a Low-Income Community**, with Andrew S. Griffen, Yukichi Mano, Yasuyuki Sawada, and Ze Wang
+**Staying for Opportunity: Evidence from an In-Situ Housing Lottery in a Low-Income Community**, with [Andrew S. Griffen](https://andrew-griffen.github.io/), [Yukichi Mano](https://hri.ad.hit-u.ac.jp/html/100000119_profile_en.html), [Yasuyuki Sawada](https://sites.google.com/site/yasuyukisawadapage/main), and [Ze Wang](https://zewangemily.github.io/)
 
 This paper studies the causal impacts of improving housing conditions in a low-income community in Manila.
 
-**Screening in Public Procurement**, with Ze Wang
+**Screening in Public Procurement**, with [Ze Wang](https://zewangemily.github.io/)
