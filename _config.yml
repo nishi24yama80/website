@@ -225,6 +225,11 @@ collections: {}
 
 # These settings control how pages and collections are included in the site
 defaults:
+  # Keep the Search Console verification file out of the sitemap
+  - scope:
+      path: "google515587a63ee91730.html"
+    values:
+      sitemap: false
   # _posts
   - scope:
       path: ""
