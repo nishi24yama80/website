@@ -13,8 +13,6 @@ I am a Predoctoral Research Professional at the [Energy Policy Institute at the 
 
 My research focus is mechanism design for energy and environmental problems using both structural estimation and causal inference. In particular, I am interested in how markets for natural resources, electricity, and carbon emissions can be designed to allocate resources sustainably, efficiently, and equitably.
 
-My current work looks at oil field auctions in Mexico, where the government leases fields to private firms in exchange for a share of the resulting revenue, and analyzes the government's tradeoff between public revenue and resource exploration.
-
 I plan to start a PhD in economics in summer 2027.
 
 Research interests
