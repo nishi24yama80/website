@@ -15,6 +15,8 @@ My research focus is mechanism design for energy and environmental problems usin
 
 My current work looks at oil field auctions in Mexico, where the government leases fields to private firms in exchange for a share of the resulting revenue, and analyzes the government's tradeoff between public revenue and resource exploration.
 
+I plan to start a PhD in economics in summer 2027.
+
 Research interests
 ------
 * Environmental and energy economics
