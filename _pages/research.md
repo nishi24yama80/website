@@ -16,14 +16,15 @@ Working papers
 
 In emerging markets such as Brazil and Mexico, governments lease oil fields through revenue-sharing auctions, awarding each field to the firm that offers the government the highest share of future revenue. Using bidding and exploration micro data from the Mexican oil industry, this paper makes two points. First, the government faces a tradeoff between public revenue and efficient resource use. The winning share works like a tax on the winner's own investment, so the most aggressive bidder has the weakest incentive to explore and drill. Second, an auction model with endogenous entry shows that an auction eases this tradeoff relative to a bilateral revenue-sharing contract, because firms that expect high revenue self-select into the auction and the government can screen them on the revenue share they offer.
 
+**Production Function Estimation with a Fixed Point Approach**
+
+This paper extends the gross output production function estimator of [Trunschke and Judd (2024)](https://www.nber.org/papers/w33205). I use the fixed point property of the estimator to make its computation fast.
+
 Work in progress
 ======
 
-**Scoring Auctions with Exploration Commitments**
+**Staying for Opportunity: Evidence from an In-Situ Housing Lottery in a Low-Income Community**, with Andrew S. Griffen, Yukichi Mano, Yasuyuki Sawada, and Ze Wang
 
-Mexico's first shallow-water round scored bids on both the revenue share offered to the government and a committed level of exploration investment. A higher weight on the commitment should induce more exploration but screens less sharply for the firm that can offer a higher revenue share. This project models bidding and post-auction exploration in two stages, estimates the model with the published bids and monthly exploration and production data, and asks how the scoring weights should be chosen to balance these two forces.
+This paper studies the causal impacts of improving housing conditions in a low-income community in Manila.
 
-Research assistance
-======
-
-**Long-term electricity contracts in Chile**, with Koichiro Ito, Luis Gonzales, and Mar Reguant (University of Chicago).
+**Screening in Public Procurement**, with Ze Wang
