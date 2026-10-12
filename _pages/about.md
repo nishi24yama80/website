@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a Predoctoral Research Professional at the [Energy Policy Institute at the University of Chicago (EPIC)](https://epic.uchicago.edu), where I work with Professor Koichiro Ito. Before coming to Chicago, I studied economics at the Graduate School of Economics at the University of Tokyo.
+I am a Predoctoral Research Professional at the [Energy Policy Institute at the University of Chicago (EPIC)](https://epic.uchicago.edu), where I work with Professor Koichiro Ito. I am the inaugural [Brandt Research Fellow](https://climate.uchicago.edu/news/tomoki-nishiyama-awarded-inaugural-brandt-research-fellowship/) at EPIC. Before coming to Chicago, I studied economics at the Graduate School of Economics at the University of Tokyo.
 
 My research is on mechanism design for energy and environmental problems. I study how markets for natural resources, electricity, and carbon emissions can be designed to allocate resources sustainably, efficiently, and equitably. Much of my work uses structural estimation to recover the primitives behind agents' decisions and to evaluate designs that have not been tried, with causal inference on existing policies as a complement.
 
