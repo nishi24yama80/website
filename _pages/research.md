@@ -11,9 +11,8 @@ hide_title: true
 Working papers
 ======
 
-**Inefficiencies of Revenue Sharing Auctions**
-<!-- To add a PDF link, put the paper in files/ and uncomment the next line. -->
-<!-- [[PDF]]({{ base_path }}/files/revenue_sharing_auctions.pdf) -->
+**Bidding Away the Incentives to Drill: Revenue Sharing Auctions in Mexico's Oil Industry**
+[[Slides]]({{ base_path }}/files/slides_revenue_sharing_auctions.pdf)
 
 **Production Function Estimation with a Fixed Point Approach**
 
