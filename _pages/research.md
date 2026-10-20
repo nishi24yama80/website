@@ -12,7 +12,7 @@ Working papers
 ======
 
 **Bidding Away the Incentives to Drill: Revenue Sharing Auctions in Mexico's Oil Industry**
-[[Slides]]({{ base_path }}/files/slides_revenue_sharing_auctions.pdf)
+[[Draft]]({{ base_path }}/files/draft_revenue_sharing_auctions.pdf) [[Slides]]({{ base_path }}/files/slides_revenue_sharing_auctions.pdf)
 
 **Production Function Estimation with a Fixed Point Approach**
 
